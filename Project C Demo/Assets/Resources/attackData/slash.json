@@ -1,0 +1,17 @@
+{
+    "name": "Slash",
+    "power": 0,
+    "resistance": 1,
+    "weaponUsed": 2,
+    "anim": "Slash",
+    "sound": "None",
+    "hitNum": 1,
+    "target": [0,1],
+    "epCost": 0,
+    "apCost": -1,
+    "buff": [],
+    "debuff": [],
+    "status": [],
+    "hpRegen": 0,
+    "epRegen": 0
+}

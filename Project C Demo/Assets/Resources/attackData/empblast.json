@@ -1,0 +1,17 @@
+{
+    "name": "EMP Blast",
+    "power": 50,
+    "resistance": 5,
+    "weaponUsed": 1,
+    "anim": "EMPBlast",
+    "sound": "None",
+    "hitNum": 1,
+    "target": [0,1],
+    "epCost": 15,
+    "apCost": 3,
+    "buff": [[0,0]],
+    "debuff": [[0,0]],
+    "status": [[[0], [90], [0,1]]],
+    "hpRegen": 0,
+    "epRegen": 0
+}

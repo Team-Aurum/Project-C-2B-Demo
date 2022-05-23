@@ -1,0 +1,23 @@
+{
+    "name": "R010: Laser Lv. 3",
+    "power": 6,
+    "resistance": 2,
+    "weaponUsed": 3,
+    "anim": "R010Lv3",
+    "sound": "None",
+    "hitNum": 1,
+    "target": [0,1],
+    "epCost": 0,
+    "apCost": 3,
+    "buff": [],
+    "debuff": [],
+    "status": [
+        {
+            "type": 2,
+            "hitRate": 10,
+            "target": [0,1]
+        }
+    ],
+    "hpRegen": 0,
+    "epRegen": 0
+}

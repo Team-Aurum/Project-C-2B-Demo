@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0856420a04037bf429ea84595bafbb8f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - arata: {fileID: 21300000, guid: f00e9c74f87ec494eb66dbd0e73331ae, type: 3}
+  - diya: {fileID: 21300000, guid: c7fca46195698b74eafabf1c092e82f1, type: 3}
+  - playerController: {instanceID: 0}
+  - tech1: {instanceID: 0}
+  - tech2: {instanceID: 0}
+  - tech3: {instanceID: 0}
+  - tech4: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

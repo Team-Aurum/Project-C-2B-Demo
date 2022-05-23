@@ -1,0 +1,17 @@
+{
+    "name": "Datu",
+    "power": 0,
+    "resistance": 8,
+    "weaponUsed": 2,
+    "anim": "Datu",
+    "sound": "None",
+    "hitNum": 1,
+    "target": [0,0],
+    "epCost": 10,
+    "apCost": 3,
+    "buff": [],
+    "debuff": [],
+    "status": [[[]]],
+    "hpRegen": 2,
+    "epRegen": 0
+}

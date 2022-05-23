@@ -1,0 +1,237 @@
+{
+    "attacks": [
+        {
+            "name": "Slash",
+            "power": 0,
+            "resistance": 1,
+            "anim": "Slash",
+            "sound": "None",
+            "hitNum": 1,
+            "target": 0,
+            "epCost": 0,
+            "apCost": 1,
+            "buff": [0,0],
+            "debuff": [0,0],
+            "status": [0,0],
+            "hpRegen": 0,
+            "epRegen": 0
+        },
+        {
+            "name": "Stab",
+            "power": 0,
+            "resistance": 1,
+            "anim": "Stab",
+            "sound": "None",
+            "hitNum": 1,
+            "target": 0,
+            "epCost": 0,
+            "apCost": 1,
+            "buff": [0,0],
+            "debuff": [0,0],
+            "status": [0,0],
+            "hpRegen": 0,
+            "epRegen": 0
+        },
+        {
+            "name": "Double Punch",
+            "power": 0,
+            "resistance": 1,
+            "anim": "DoublePunch",
+            "sound": "None",
+            "hitNum": 2,
+            "target": 0,
+            "epCost": 0,
+            "apCost": 1,
+            "buff": [0,0],
+            "debuff": [0,0],
+            "status": [0,0],
+            "hpRegen": 0,
+            "epRegen": 0
+        },
+        {
+            "name": "Double Slash",
+            "power": 0,
+            "resistance": 1,
+            "anim": "DoubleSlash",
+            "sound": "None",
+            "hitNum": 2,
+            "target": 0,
+            "epCost": 0,
+            "apCost": 1,
+            "buff": [0,0],
+            "debuff": [0,0],
+            "status": [0,0],
+            "hpRegen": 0,
+            "epRegen": 0
+        },
+        {
+            "name": "Shot",
+            "power": 0,
+            "resistance": 1,
+            "anim": "Shot",
+            "sound": "None",
+            "hitNum": 1,
+            "target": 0,
+            "epCost": 0,
+            "apCost": 1,
+            "buff": [0,0],
+            "debuff": [0,0],
+            "status": [0,0],
+            "hpRegen": 0,
+            "epRegen": 0
+        }
+    ],
+    "magic": {
+        "offensive": {
+            "Fire": [
+                {
+                    "name": "Sute"
+                },
+                {
+                    "name": "Sutinda"
+                },
+                {
+                    "name": "Sutartsu"
+                },
+                {
+                    "name": "Gusute"
+                },
+                {
+                    "name": "Gusutinda"
+                },
+                {
+                    "name": "Gusutartsu"
+                }
+            ],
+            "Wind": [
+                {
+                    "name": "Haize"
+                },
+                {
+                    "name": "Haizinda"
+                },
+                {
+                    "name": "Haizartsu"
+                },
+                {
+                    "name": "Guhaize"
+                },
+                {
+                    "name": "Guhaizinda"
+                },
+                {
+                    "name": "Guhaizartsu"
+                }
+            ],
+            "Ice": [
+                {
+                    "name": "Izo"
+                },
+                {
+                    "name": "Izonda"
+                },
+                {
+                    "name": "Izartsu"
+                },
+                {
+                    "name": "Gizo"
+                },
+                {
+                    "name": "Gizonda"
+                },
+                {
+                    "name": "Gizartsu"
+                }
+            ],
+            "Electric": [
+                {
+                    "name": "Txima"
+                },
+                {
+                    "name": "Tximanda"
+                },
+                {
+                    "name": "Tximartsu"
+                },
+                {
+                    "name": "Gutxima"
+                },
+                {
+                    "name": "Gutximanda"
+                },
+                {
+                    "name": "Gutximartsu"
+                }
+            ]
+        },
+        "healing": [
+            {
+                "name": "Datu"
+            },
+            {
+                "name": "Datinda"
+            },
+            {
+                "name": "Datartsu"
+            },
+            {
+                "name": "Gudatu"
+            },
+            {
+                "name": "Gudatinda"
+            },
+            {
+                "name": "Gudatartsu"
+            }
+        ],
+        "buffs": [
+            {
+                "name": "Indarreki"
+            },
+            {
+                "name": "Magireki"
+            },
+            {
+                "name": "Abiareki"
+            },
+            {
+                "name": "Defereki"
+            },
+            {
+                "name": "Iraureki"
+            },
+            {
+                "name": "Geldireki"
+            }
+        ],
+        "debuffs": [
+            {
+                "name": "Indarhera"
+            },
+            {
+                "name": "Magihera"
+            },
+            {
+                "name": "Abiahera"
+            },
+            {
+                "name": "Defehera"
+            },
+            {
+                "name": "Irauhera"
+            },
+            {
+                "name": "Geldihera"
+            }
+        ]
+    },
+    "techs": {
+    
+    },
+    "items": {
+
+    },
+    "enemy": {
+
+    }
+}

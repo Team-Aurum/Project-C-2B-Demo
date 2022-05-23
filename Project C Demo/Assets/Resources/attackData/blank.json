@@ -1,0 +1,17 @@
+{
+    "name": "NULL",
+    "power": 0,
+    "resistance": 1,
+    "anim": "NULL",
+    "weaponUsed": 0,
+    "sound": "None",
+    "hitNum": 0,
+    "target": [0,1],
+    "epCost": 0,
+    "apCost": 0,
+    "buff": [],
+    "debuff": [],
+    "status": [[[]]],
+    "hpRegen": 0,
+    "epRegen": 0
+}

@@ -1,0 +1,38 @@
+{
+    "name": "2B",
+    "level": -1,
+    "currentHP": -1,
+    "currentEP": -1,
+    "maxHP": [10000, 0],
+    "maxEP": [0, 9.19],
+    "attack": [8, 0.73],
+    "magic": [8, 0.73],
+    "speed": [8, 0.73],
+    "defense": [8, 0.73],
+    "resistance": [8, 0.73],
+    "resistances": [5,0,3,2],
+    "attacks": [
+        {"name": "Slash", "level": 0, "attackType": 0, "weaponUsed": 0},
+        {"name": "Double Punch", "level": 0, "attackType": 1, "weaponUsed": 1},
+
+        {"name": "Pod A: Gatling", "level": 0, "weaponUsed": 0},
+        {"name": "Evasive Maneuvers", "level": 0, "weaponUsed": 0},
+
+        {"name": "R010Lv1", "level": 0, "weaponUsed": 0},
+        {"name": "R010Lv2", "level": 0, "weaponUsed": 0},
+        {"name": "R010Lv3", "level": 0, "weaponUsed": 0},
+        {"name": "R010Charge", "level": 0, "weaponUsed": 0},
+        {"name": "A090Lv1", "level": 0, "weaponUsed": 0},
+        {"name": "A090Lv2", "level": 0, "weaponUsed": 0},
+        {"name": "A090Lv3", "level": 0, "weaponUsed": 0},
+        {"name": "A090Charge", "level": 0, "weaponUsed": 0},
+        {"name": "A150Lv1", "level": 0, "weaponUsed": 0},
+        {"name": "A150Lv2", "level": 0, "weaponUsed": 0},
+        {"name": "A150Lv3", "level": 0, "weaponUsed": 0},
+        {"name": "A150Charge", "level": 0, "weaponUsed": 0},
+        {"name": "A130Lv1", "level": 0, "weaponUsed": 0},
+        {"name": "A130Lv2", "level": 0, "weaponUsed": 0},
+        {"name": "A130Lv3", "level": 0, "weaponUsed": 0},
+        {"name": "A130Charge", "level": 0, "weaponUsed": 0}
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "R010: Laser Charging",
+    "power": 0,
+    "resistance": 2,
+    "weaponUsed": 2,
+    "anim": "R010Charge",
+    "sound": "None",
+    "hitNum": 1,
+    "target": [0,0],
+    "epCost": 0,
+    "apCost": 3,
+    "buff": [],
+    "debuff": [],
+    "status": [[[]]],
+    "hpRegen": 0,
+    "epRegen": 0
+}

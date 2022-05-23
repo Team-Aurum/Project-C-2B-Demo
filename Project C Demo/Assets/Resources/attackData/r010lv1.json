@@ -1,0 +1,17 @@
+{
+    "name": "R010: Laser Lv. 1",
+    "power": 2,
+    "resistance": 2,
+    "weaponUsed": 3,
+    "anim": "R010Lv1",
+    "sound": "None",
+    "hitNum": 1,
+    "target": [0,1],
+    "epCost": 0,
+    "apCost": 3,
+    "buff": [],
+    "debuff": [],
+    "status": [[[2], [10], [0,0]]],
+    "hpRegen": 0,
+    "epRegen": 0
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Ciaran",
+    "level": -1,
+    "currentHP": -1,
+    "currentEP": -1,
+    "maxHP": [90, 9.19],
+    "maxEP": [90, 9.19],
+    "attack": [8, 0.73],
+    "magic": [8, 0.73],
+    "speed": [8, 0.73],
+    "defense": [8, 0.73],
+    "resistance": [8, 0.73],
+    "resistances": [2,3,0,1],
+    "attacks": [
+        {"name": "Circuit Blade", "level": 0, "attackType": 0},
+        {"name": "Solar Pistol", "level": 0, "attackType": 4}
+    ]
+}
